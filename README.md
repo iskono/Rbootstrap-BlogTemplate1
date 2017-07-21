@@ -2,7 +2,7 @@
 
 [Bootstrap Blog Template One](http://rbootstrap.com/blog-template-one/) is a Blog Template [Bootstrap](http://getbootstrap.com/) created by [RBootstrap](http://rbootstrap.com/).
 
-##View Demo
+## View Demo
 [Bootstrap Blog Template One](https://rbootstrap.github.io/blog-template1/blog-grid-lhs.html)
 
 ## Getting Started
